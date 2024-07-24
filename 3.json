@@ -1,0 +1,146 @@
+[
+  {
+    "name": "IPC",
+    "size": null
+  },
+  {
+    "name": "IPC.A",
+    "size": null
+  },
+  {
+    "name": "IPC.A.A61K",
+    "size": 385
+  },
+  {
+    "name": "IPC.B",
+    "size": null
+  },
+  {
+    "name": "IPC.B.B01D",
+    "size": 1210
+  },
+  {
+    "name": "IPC.B.B01F",
+    "size": 436
+  },
+  {
+    "name": "IPC.B.B02C",
+    "size": 478
+  },
+  {
+    "name": "IPC.B.B08B",
+    "size": 441
+  },
+  {
+    "name": "IPC.B.B21D",
+    "size": 518
+  },
+  {
+    "name": "IPC.B.B23K",
+    "size": 1072
+  },
+  {
+    "name": "IPC.B.B23Q",
+    "size": 806
+  },
+  {
+    "name": "IPC.B.B24B",
+    "size": 642
+  },
+  {
+    "name": "IPC.B.B25B",
+    "size": 499
+  },
+  {
+    "name": "IPC.B.B29C",
+    "size": 853
+  },
+  {
+    "name": "IPC.B.B60L",
+    "size": 373
+  },
+  {
+    "name": "IPC.B.B65B",
+    "size": 440
+  },
+  {
+    "name": "IPC.B.B65D",
+    "size": 883
+  },
+  {
+    "name": "IPC.B.B65G",
+    "size": 875
+  },
+  {
+    "name": "IPC.B.B65H",
+    "size": 410
+  },
+  {
+    "name": "IPC.B.B66C",
+    "size": 558
+  },
+  {
+    "name": "IPC.F",
+    "size": null
+  },
+  {
+    "name": "IPC.F.F16C",
+    "size": 1047
+  },
+  {
+    "name": "IPC.F.F16K",
+    "size": 662
+  },
+  {
+    "name": "IPC.F.F16L",
+    "size": 616
+  },
+  {
+    "name": "IPC.G",
+    "size": null
+  },
+  {
+    "name": "IPC.G.G01B",
+    "size": 596
+  },
+  {
+    "name": "IPC.G.G01M",
+    "size": 680
+  },
+  {
+    "name": "IPC.G.G01N",
+    "size": 1179
+  },
+  {
+    "name": "IPC.G.G01R",
+    "size": 534
+  },
+  {
+    "name": "IPC.G.G06F",
+    "size": 1069
+  },
+  {
+    "name": "IPC.H",
+    "size": null
+  },
+  {
+    "name": "IPC.H.H01B",
+    "size": 557
+  },
+  {
+    "name": "IPC.H.H01L",
+    "size": 1538
+  },
+  {
+    "name": "IPC.H.H01M",
+    "size": 843
+  },
+  {
+    "name": "IPC.H.H02K",
+    "size": 471
+  },
+  {
+    "name": "IPC.H.H05K",
+    "size": 432
+  }
+]
