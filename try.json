@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Alaska",
+        "year": 2019,
+        "month": 1,
+        "value": 10
+    },
+    {
+        "name": "Alaska",
+        "year": 2019,
+        "month": 2,
+        "value": 15
+    },
+    {
+        "name": "Alaska",
+        "year": 2019,
+        "month": 3,
+        "value": 20
+    },
+    // 省略部分数据
+    {
+        "name": "Alaska",
+        "year": 2023,
+        "month": 12,
+        "value": 30
+    }
+]
